@@ -1,18 +1,3 @@
-/* Adapted From 
- * 
- * https://github.com/jfree/jfree-demos/blob/master/src/main/java/org/jfree/chart/demo/PieChartDemo1.java
- *
- * and
- *
- * http://www.jfree.org/phpBB2/viewtopic.php?f=3&t=25969
- */
-/* ----------------------------
-* LegendTitleToImageDemo2.java
-* ----------------------------
-* (C) Copyright 2008, by Object Refinery Limited.
-*
-*/
-
 package test;
 
 import java.awt.Color;
